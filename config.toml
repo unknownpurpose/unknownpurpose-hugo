@@ -1,0 +1,13 @@
+baseURL = "http://unknownpurpose.github.io"
+languageCode = "en-gb"
+title = "Institute of Unknown Purpose"
+theme = "cactus-plus"
+
+[params]
+	name = "Institute of Unknown Purpose"
+	description = "Center for the Narrowly Improbable"
+	bio = "<< Center for the Narrowly Improbable >>"
+
+	iconFont = "font-awesome"
+[social]
+	github-square = "http://github.com/unknownpurpose"
